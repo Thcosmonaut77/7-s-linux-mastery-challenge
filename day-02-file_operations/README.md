@@ -1,4 +1,4 @@
-# Phase 1 - File Navigation & File System Mastery | Day 1 of 30
+# Phase 1 - File Navigation & File System Mastery | Day 2 of 30
 
 ## Day 02: File Operations
 
