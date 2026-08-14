@@ -21,4 +21,4 @@
 ### Related
 
    - Previous day: ../PHASE_1/day-04-filesystem_search/
-   - Next day: ../PHASE_1/day-05-links-checkpoint/
+   - Next day: ../PHASE_1/day-06-permissions/
