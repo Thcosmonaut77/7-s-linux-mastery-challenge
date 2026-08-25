@@ -8,7 +8,7 @@
 
 ### What I practiced
 
-   - Toadys drill involved provisioning a user account and installing tools required by the user
+   - Todays drill involved provisioning a user account and installing tools required by the user
    
 
 ### What surprised me
