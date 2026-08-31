@@ -8,11 +8,11 @@
 
 ### What I practiced
 
-   - 
+   - Today I explored the different ways I could view processes
    
 ### What surprised me
 
-   - 
+   - There is actually a lot more going on behind the hood
 
 ### Evidence
    - Screenshot or terminal transcript of the drill in evidence/.
